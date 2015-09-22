@@ -21,34 +21,7 @@
 		}(document, 'script', 'facebook-jssdk'));</script>
 	<!-- End script for Facebook plugin -->
 		
-		<!--Navbar-->
-		<div id="navbar">
-			<ul>
-				<li id="site-title"><a href='index.html' >UNIVERSITY OF TORONTO TAEKWONDO ORGANIZATION</a></li>
-				<li><a href='About.html'>ABOUT US</a>
-					<ul>
-						<li><a href="exec-team.html">EXECUTIVE TEAM</a></li>
-					</ul>
-				</li>
-				<li><a href='classes.html'>CLASSES</a>
-					<ul>
-						<li><a href="additional-training.html">ADDITIONAL TRAINING</a></li>
-					</ul>
-				</li>
-				<li><a href='events.html'>EVENTS</a>
-					<ul>
-						<li><a href="past-events.html">PAST EVENTS</a></li>
-					</ul>
-				</li>
-				<li><a href='competitive-team.html'>TEAM</a></li>
-				<li><a class="active" href='Contact.html'>CONTACT</a></li>
-				<li id="icon-bar"><a href="http://instagram.com/uofttaekwondo?ref=badge"><img src="images/instagram.png" height=24px/></a> <a href="https://www.facebook.com/uofttaekwondo"> <img src="images/facebook.png" height=24px/> </a>
-					<a href="https://www.youtube.com/channel/UCwNyp8-2Q7SFhThkkLDNOQg/feed"><img src="images/youtube.png" height=24px/></a>
-				</li>
-			</ul>
-		</div>
-		<!--End Navbar-->
-
+		<?php include_once("navbar.html"); ?>
 
 		<h1>Contact Us</h1>
 		<div class="content">			

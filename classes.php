@@ -16,7 +16,7 @@
 		<div class="content">
 			<p>All of our classes are held at Hart House. For more information, visit their <a href="http://harthouse.ca/">website</a>.<br/>
 			Wear clothing that is easy to move around in, such as shorts and t-shirts. Wearing the club uniform is not required but recommended. Dobok is not required. If using the locker rooms at Hart House, please bring a valid T-card.</p>
-			<p>If you would like to withdraw from the class, to get a refund you mus withdraw before the second class. Withdraw will incur an administration fee.</p>
+			<p>If you would like to withdraw from the class, to get a refund you must withdraw before the second class. Withdraw will incur an administration fee.</p>
 
 			<h6>CLASS SCHEDULE Fall 2015-2016</h6>
 

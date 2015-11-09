@@ -28,8 +28,15 @@
 			<p class="event_description">If you missed us at Clubs Day, we will also be at the UTSU Street Fest! Besides us, there will also be other clubs, organizations, food and more. For more information, visit the Street Fest website <a href="http://www.orientation.utsu.ca/#!about-street-festival/c1jl4">here</a>.
 
 			<h5>Froyo and Hart House Jazz Night</h5>
-			<p class="event_info">October - date TBA</p>
-			<p class="event_description">Details to be added.</p>
+			<p class="event_info">Friday October 9
+				<br/>7:30pm
+				<br/>Hart House
+				<br/><a href="https://www.facebook.com/events/1648848252059415/">Facebook Page</a>
+				</p>
+			<p class="event_description">
+				Make friends with the people you've been practicing with by eating frozen yogurt and listening to jazz at Hart House! We will be meeting in front of Hart House at the front doors to go to frozen yogurt. Bring your T-card to get 10% off. Everyone currently in a class is welcome.
+
+			</p>
 
 			<h5>Sushi/BBQ All You Can Eat</h5>
 			<p class="event_info">October - date TBA

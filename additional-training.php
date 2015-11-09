@@ -38,7 +38,9 @@
 			<h5>Poomsae Sessions</h5>
 			<p>More information TBA</p>
 			<h5>Testing</h5>
-			<p>We will be offering belt testing this year in February. More information TBA</p>
+			<p>This year, we will be holding belt testing on February 27 and 28, 2016. There will be a few test prep sessions in late November and Janurary. Testing is open for all standard WTF color belts: yellow, green, blue and red. We will also be offering black belt testing for up to 2nd Dan. Testing is open to anyone who is signed up for a class in both first and second semester.</p>
+			<p>Testing for colour belts will be $30 plus cost of belts. Black belt testing wwill be $70-100. Uniforms are also required. We will cover poomsae patterns, board breaking and self defense in the prep sessions.</p>
+			<p>If you would like to register, sign up <a href="https://docs.google.com/forms/d/1yHuexd5O4cq5p1cSrO89idLDoemWgbxTW-zL_yCSNH8/viewform">here</a> by Sunday, Nov. 15, 2015. Also, remember to like our <a href="https://www.facebook.com/uofttaekwondo">Facebook page</a> to stay updated.</p>
 			<br/>
 			<p>Check out our gallery below for pictures from some of our additional training sessions!</p>
 			

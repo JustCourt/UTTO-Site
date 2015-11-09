@@ -49,7 +49,6 @@
 				Hart House - Activities Room<br/>
 				<a href="http://harthouse.ca/eventssingle/tae-kwon-do-competitive-training-group_5981">More Info and Registration</a>
 			</p>
-			<p>Check out our gallery below for pictures of our competitive team in action at tournaments & training (and slacking off).</p>
 			
 			<!-- Slideshow -->
 			<div class="flexslider">
@@ -84,6 +83,38 @@
 				</ul>
 			</div>
 			<!-- End Slideshow -->
+
+			<h6>Competitive Team Events</h6>
+			<h5>Joint University Training</h5>
+			<p class="event_info">
+				Oct. 24, 2015
+			</p>
+			<p>Thanks to everyone who came out to our joint training with Western!</p>
+						<!-- Slideshow -->
+			<div class="flexslider">
+				<ul class="slides">
+					<li data-thumb="images/joint_training1.jpg">
+						<img src="images/joint_training1.jpg">
+					</li>
+					<li data-thumb="images/joint_training2.jpg">
+						<img src="images/joint_training2.jpg">
+					</li>
+					<li data-thumb="images/joint_training3.jpg">
+						<img src="images/joint_training3.jpg">
+					</li>
+					<li data-thumb="images/joint_training4.jpg">
+						<img src="images/joint_training4.jpg">
+					</li>
+					<li data-thumb="images/joint_training5.jpg">
+						<img src="images/joint_training5.jpg">
+					</li>
+					<li data-thumb="images/joint_training6.jpg">
+						<img src="images/joint_training6.jpg">
+					</li>
+				</ul>
+			</div>
+			<!-- End Slideshow -->
+
 
 		</div>
 		<div class="footer">
